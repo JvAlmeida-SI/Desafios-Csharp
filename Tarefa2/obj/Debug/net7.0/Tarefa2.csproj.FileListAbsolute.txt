@@ -1,0 +1,40 @@
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.exe
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.deps.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.runtimeconfig.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.pdb
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.csproj.AssemblyReference.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.GeneratedMSBuildEditorConfig.editorconfig
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.AssemblyInfoInputs.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.AssemblyInfo.cs
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.csproj.CoreCompileInputs.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/refint/Tarefa2.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.pdb
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.genruntimeconfig.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/ref/Tarefa2.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.exe
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.deps.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.runtimeconfig.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.deps.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.runtimeconfig.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/out/Tarefa2.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.csproj.AssemblyReference.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.AssemblyInfoInputs.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.AssemblyInfo.cs
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.csproj.CoreCompileInputs.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/refint/Tarefa2.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/Tarefa2.genruntimeconfig.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/obj/Debug/net7.0/ref/Tarefa2.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.deps.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.runtimeconfig.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa2/bin/Debug/net7.0/Tarefa2.pdb

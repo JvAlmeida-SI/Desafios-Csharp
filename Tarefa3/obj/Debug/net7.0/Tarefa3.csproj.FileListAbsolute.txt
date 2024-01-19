@@ -1,0 +1,40 @@
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.exe
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.deps.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.runtimeconfig.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.pdb
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.csproj.AssemblyReference.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.GeneratedMSBuildEditorConfig.editorconfig
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.AssemblyInfoInputs.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.AssemblyInfo.cs
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.csproj.CoreCompileInputs.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/refint/Tarefa3.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.pdb
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.genruntimeconfig.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/ref/Tarefa3.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.exe
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.deps.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.runtimeconfig.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.deps.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.runtimeconfig.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/out/Tarefa3.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.csproj.AssemblyReference.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.AssemblyInfoInputs.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.AssemblyInfo.cs
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.csproj.CoreCompileInputs.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/refint/Tarefa3.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/Tarefa3.genruntimeconfig.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/obj/Debug/net7.0/ref/Tarefa3.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.deps.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.runtimeconfig.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa3/bin/Debug/net7.0/Tarefa3.pdb

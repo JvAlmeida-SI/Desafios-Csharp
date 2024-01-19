@@ -1,0 +1,22 @@
+Nome: Fernanda
+Idade: 21
+Peso: 58
+Altura: 1.58
+IMC: 23
+Resultado: Peso normal
+------------------------------------------------
+
+Nome: Marcela
+Idade: 16
+Peso: 64
+Altura: 1.65
+IMC: 24
+Resultado: Peso normal
+------------------------------------------------
+Nome: João
+Idade: 25
+Peso: 77
+Altura: 1.7
+IMC: 27
+Resultado: Sobrepeso
+------------------------------------------------

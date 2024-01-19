@@ -1,0 +1,40 @@
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.csproj.AssemblyReference.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.GeneratedMSBuildEditorConfig.editorconfig
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.AssemblyInfoInputs.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.AssemblyInfo.cs
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.csproj.CoreCompileInputs.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.exe
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.deps.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.runtimeconfig.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.pdb
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/refint/Tarefa4.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.pdb
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.genruntimeconfig.cache
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/ref/Tarefa4.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.exe
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.deps.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.runtimeconfig.json
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.dll
+D:/Documentos/Desktop/Smart Consulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.deps.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.runtimeconfig.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/out/Tarefa4.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.csproj.AssemblyReference.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.AssemblyInfoInputs.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.AssemblyInfo.cs
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.csproj.CoreCompileInputs.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/refint/Tarefa4.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.pdb
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/Tarefa4.genruntimeconfig.cache
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/obj/Debug/net7.0/ref/Tarefa4.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.deps.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.runtimeconfig.json
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.dll
+/home/joao/Área de Trabalho/SmartConsulting/06. C Sharp/Coding/Tarefa4/bin/Debug/net7.0/Tarefa4.pdb
